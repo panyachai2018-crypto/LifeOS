@@ -338,6 +338,6 @@ badosanjos · benoitdepaire · bnkath2o · brycemagera · catchingknives · DAES
 
 **Built with ❤️ by [Daniel Miessler](https://danielmiessler.com) and the LifeOS community**
 
-*Augment yourself.*
+*Augment yourself.
 
 </div>
